@@ -8,7 +8,7 @@ This repository contains the complete hardware and software ecosystem for an 8-c
 
 ## ✨ Key Features
 * **High Fidelity:** 24-bit resolution with -110 dB CMRR for clean biopotential capture.
-* **Real-Time DSP:** Integrated Notch and Band-pass filters with Live FFT/PSD visualization.
+* **Real-Time DSP:** Integrated filter designer for visualization with Live configurable FFT/PSD.
 * **High Throughput:** Stable 250-1000 SPS sampling rates via multithreaded architecture.
 * **Ultra Low-Cost:** Total BOM under $350 USD.
 * **Portability:** Compact wearable form factor with 10+ hours of battery life.
