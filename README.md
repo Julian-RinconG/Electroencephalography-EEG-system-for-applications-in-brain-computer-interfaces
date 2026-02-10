@@ -11,7 +11,7 @@ This repository contains the complete hardware and software ecosystem for an 8-c
 * **Real-Time DSP:** Integrated filter designer for visualization with Live configurable FFT/PSD.
 * **High Throughput:** Stable 250-1000 SPS sampling rates via multithreaded architecture.
 * **Ultra Low-Cost:** Total BOM under $350 USD.
-* **Portability:** Compact wearable form factor with 10+ hours of battery life.
+* **Portability:** Compact wearable form factor with limited consume (38 mA Serial - 58 mA BLE).
 
 ## 📂 Repository Structure
 * `/Hardware`: Altium Designer files (schematics, layout).
